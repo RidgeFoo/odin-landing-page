@@ -64,6 +64,7 @@ button {
     padding: 8px 24px;
     border-radius: 8px;
     color: white;
+    font-size: 18px;
 }
   
 .btn-sign-up {
@@ -138,7 +139,7 @@ button {
 
 .modal {
     border-radius: 8px;
-    padding: 16px 32px 16px 32px;
+    padding: 48px 64px 48px 64px;
     background: #3882f6;
     color: white;
 
