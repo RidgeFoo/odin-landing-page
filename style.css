@@ -30,8 +30,8 @@ li {
 
 .container-row,
 .container-column {
-    margin-left: 128px;
-    margin-right: 128px;
+    width: 800px;
+    margin: auto;
 }
 
 .container-row {
@@ -137,16 +137,11 @@ button {
 }
 
 .modal {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     border-radius: 8px;
     padding: 16px 32px 16px 32px;
     background: #3882f6;
     color: white;
-    margin-left: 128px;
-    margin-right: 128px;
-    width: 100%;
+
 }
 
 .call-to-action-text {
